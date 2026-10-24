@@ -58,8 +58,10 @@ Regression model training
 Model evaluation
 
 Repository Structure
+                Project Notebook
 
-House-Price-Prediction/ ├── house-price-prediction.ipynb └── README.md 
+"View House Price Prediction Notebook" (
+                https://github.com/sifatshariar50/House-Price-Prediction/blob/main/house-price-prediction.ipynb
 
 Key Skills Demonstrated
 
